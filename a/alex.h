@@ -1,6 +1,6 @@
-#include<conio.h>
+//#include<conio.h>
 #include <stdlib.h>
-#include<windows.h>
+//#include<windows.h>
 //Goes to x,y coord. on screen.
 
 void gotoxy(int x,int y)
